@@ -1,0 +1,5 @@
+*_checkpoints
+data/
+env/
+environment.yml
+*.csv
